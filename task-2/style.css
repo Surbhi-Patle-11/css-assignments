@@ -1,0 +1,90 @@
+#btn1{
+    border: solid pink;
+    background-color: rgb(115, 15, 117);
+    border-radius: 90%;
+    padding: 40px;
+    box-shadow: 2px 3px 2px rgb(148, 140, 140);
+}
+#btn2{
+
+    background-color:orange;
+    border:solid;
+    border-radius:77px 77px 10px  67px;
+    padding:20px;
+    margin:20px;
+    box-shadow: 2px 3px 2px rgb(148, 140, 140);
+}
+
+#btn3{
+
+    background-color: greenyellow;
+    border-radius: 1px 40px 1px 40px;
+    padding: 20px;
+     margin:20px;
+     box-shadow: -2px 3px 2px rgb(148, 140, 140);
+}
+
+
+#btn4
+{
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 20px;
+     margin:20px;
+     box-shadow: 2px -3px 2px rgb(148, 140, 140);
+
+
+}
+#btn5{
+
+    background-color: darkolivegreen;
+     margin:20px;
+     border-radius: 45px;
+     color: white;
+     padding-left: 20px;
+     padding-right: 20px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     box-shadow: -3px 3px 4px rgb(52, 99, 77);
+}
+#btn6{
+
+    background-color: cornflowerblue;
+    border-radius: 30px   3px 306px 300px ;
+    padding: 23px;
+    margin:20px;
+    box-shadow:  -2px 3px 1px rgb(24, 58, 80);
+
+}
+#btn7{
+    background-color: pink;
+    padding: 30px;
+    border-radius: 00px 680px   708px 10px;
+    box-shadow: 0px 3px 4px 2px rgb(92, 82, 83);
+   margin: 20px;
+
+}
+#btn8{
+    background-color: rgb(216, 222, 22);
+    border-radius: 500px 6px 8px 5px;
+    padding: 40px;
+    box-shadow: 5px 4px 2px rgb(175, 177, 125) ;
+}
+#btn9{
+
+    background-color: darkgray;
+    border-radius: 78px 78px 10px 15px;
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 4px 4px 5px rgb(125, 116, 116);
+
+}
+h1{
+    color: blue;
+    font-style: oblique;
+    border-radius: 20px 600px 1px;
+    border: 1px dashed darkgoldenrod;
+    background-color: bisque;
+    padding-left: 160px;
+   
+}
