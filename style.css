@@ -1,0 +1,21 @@
+.btn{
+    background-color: pink;
+    color: lightcoral;
+    border-radius: 20px 15px 10px  5px;
+    padding: 10px;
+}
+
+ #tbl{
+   
+    
+th,td{
+    border: solid ;
+}
+.r-clr{
+    background-color: red;
+    border-radius: 90%;
+}
+.blue{
+    background-color: blue;
+    border-radius: 90%;
+}
